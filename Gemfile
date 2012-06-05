@@ -50,6 +50,6 @@ end
 group :production do
   # Pretty printed test output
    gem 'pg'
-   gem 'node.js'
+   gem 'therubyracer'
 end
 
